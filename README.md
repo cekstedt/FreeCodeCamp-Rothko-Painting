@@ -1,4 +1,4 @@
-# FreeCodeCamp - Learn the CSS Box Model by Building a Rothko Painting
+# FreeCodeCamp - Building a Rothko Painting
 
 This is a solution to the [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 
